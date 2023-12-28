@@ -1,0 +1,23 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAMABARAAAAAMAQEREAwMzMDBEQEQDAqvrxmQAAAMD//x+ZmcwLwP//8f//DADAqvofmZnMC8D///GZAAAAwP//DxEBEBHAzMwMABEREQAAAMAAABARAADADAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pixel Uzi"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAQEQEAAAAAABABAQAAAP//8RABAAAQEf8RHwAAABARVR+/CwDwEBH/H7+7u/EQEf//v7u7ABAR//+/u7sAEBH/H7+7u/EQEVUfvwsA8BAR/xEfAAAAAP//8RARAAAAAAAAABABEQAAAAAAABERAAAAAAAAABEAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pixel N"
+    },
+    "song1": {
+        "data": "0078000408020105001c000f0a006400f4010a00000400000000000000000000000000000000022a0000000400012c08000c00012410001400012918001c00012420002400012728002c000127300034000129",
+        "mimeType": "application/mkcd-song",
+        "displayName": "Merry Melody",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
